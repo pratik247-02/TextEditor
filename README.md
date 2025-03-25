@@ -6,3 +6,5 @@ To use this, write your text, select parts of it and assign colors to them, then
 
 Source Code
 This app runs entirely in your browser and the source code is freely available on GitHub. Shout out to kkrypt0nn for this guide.
+
+https://gist.github.com/rebane2001/07f2d8e80df053c70a1576d27eabe97c
